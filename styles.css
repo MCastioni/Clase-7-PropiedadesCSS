@@ -1,0 +1,41 @@
+* {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.contenedor {
+    background-color: yellowgreen;
+    margin: 10px;
+}
+
+.contenedor p {
+    background-color: grey;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: large;
+    color: white;
+    padding: 10px;
+    width: 50%;
+}
+
+.contenedor b {
+    color:green;
+}
+
+.contenedor span {
+    color: blue;
+    text-shadow: 300px;
+    text-overflow: ellipsis;
+}
+.links {
+    background-color: lightcoral
+}
+
+.links a {
+    display: block;
+    color: white;
+}
+
+footer a{
+    background-color: black;
+    color: red;
+    display: block;
+}
